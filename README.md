@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chiewchan 👋
 
-<!--
-**ChiewchanSM/ChiewchanSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Engineering student at KMITL (GPA 3.87)
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Data Engineering
+- Workflow Automation
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Python, SQL, PyTorch, Scikit-learn, Apache Spark, dbt, Docker, AWS, n8n
+
+## Selected Projects
+- Cross-Selling Recommendation System (ML + MLOps)
+- AI-Based Remote Exam Proctoring System
+- Brain Tumor Segmentation & Classification
+- FinTech Automation Workflow (n8n)
+
+## Contact
+LinkedIn: TBA 
+Email: 66051177@kmitl.ac.th
