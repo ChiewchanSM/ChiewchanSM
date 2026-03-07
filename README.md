@@ -1,4 +1,4 @@
-# Hi, I'm Chiewchan 
+# Hi, I'm Chiewchan 👋
 
 AI & Data Engineering student at KMITL (GPA 3.87)
 
