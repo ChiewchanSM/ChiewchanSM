@@ -9,7 +9,7 @@ AI & Data Engineering student at KMITL (GPA 3.87)
 - Computer Vision
 
 ## Technical Skills
-Python, SQL, PyTorch, Scikit-learn, Apache Spark, dbt, Docker, AWS, n8n, PowerBI, MongoDB
+Python, SQL, PyTorch, TensorFlow, Scikit-learn, dbt, Docker, AWS, n8n, PowerBI, MongoDB
 
 ## Selected Projects
 - Cross-Selling Recommendation System (ML + MLOps)
