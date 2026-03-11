@@ -7,7 +7,7 @@ I enjoy building practical systems that combine **machine learning, data process
 
 ---
 
-# 🔍 Interests
+# Interests
 
 - Machine Learning
 - Data Engineering
@@ -17,7 +17,7 @@ I enjoy building practical systems that combine **machine learning, data process
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 **Programming**
 
@@ -41,7 +41,7 @@ Power BI, MongoDB, SQLite
 
 ---
 
-# 🚀 Selected Projects
+# Selected Projects
 
 ### Cross-Selling Recommendation System (ML + MLOps)
 End-to-end machine learning system that predicts cross-selling opportunities using customer demographics and purchase data. Includes feature engineering, neural network modeling, containerization, and deployment.
