@@ -74,4 +74,5 @@ Automated system that processes payment slip images using OCR, extracts transact
 # 📫 Contact
 
 LinkedIn: linkedin.com/in/chiewchan-sumalares 
+
 Email: 66051177@kmitl.ac.th
